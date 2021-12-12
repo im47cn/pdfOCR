@@ -1,0 +1,15 @@
+{
+    "python.defaultInterpreterPath": "/Users/yp-21074/paddlepaddle/bin/python",
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "python3 -u"
+    },
+    "python.formatting.provider": "yapf",
+}
